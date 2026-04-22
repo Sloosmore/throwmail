@@ -1,0 +1,8 @@
+.agent-email/
+node_modules/
+dist/
+.turbo/
+coverage/
+.vitest-cache/
+.DS_Store
+*.log
